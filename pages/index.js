@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+    <script>window.location = "https://onlyfans.com/vamore"</script>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
